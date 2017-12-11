@@ -1,0 +1,25 @@
+img{
+  width: 300px;
+  height: auto;
+}
+
+.nombre{
+  position: absolute;
+  color: #fff;
+  margin-top: 250px;
+  margin-left: 100px;
+}
+
+.apellido{
+  position: absolute;
+  color: #fff;
+  margin-top: 250px;
+  margin-left: 166px;
+}
+
+.username{
+  position: absolute;
+  color: #fff;
+  margin-top: 270px;
+  margin-left: 100px;
+}
