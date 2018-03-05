@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
 import './DetalleUsuario.css'
 
-export
+export default class DetalleUsuario extends Component{
+  
+}
